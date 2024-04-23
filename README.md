@@ -10,15 +10,25 @@ The dataset is preprocessed and cleaned to prepare it for analysis and clusterin
 It includes information such as:
 
 realSum: Total number of bookings
+
 room_type: Type of room (e.g., entire home/apartment, private room, shared room)
+
 room_shared: Number of shared rooms
+
 room_private: Number of private rooms
+
 host_is_superhost: Indicator of whether the host is a superhost
+
 cleanliness_rating: Rating for cleanliness
+
 guest_satisfaction_overall: Overall guest satisfaction rating
+
 dist: Distance from the city center
+
 metro_dist: Distance from the nearest metro station
+
 attr_index: Index representing proximity to attractions
+
 rest_index: Index representing proximity to restaurants
 
 Average Price for Types of Listings: 
